@@ -1,3 +1,9 @@
+function fun1(){
+window.open("https://www.facebook.com/geeks.IIITJ/");
+}
+function fun2(){
+window.open("https://github.com/BitByte-TPC/TPC-website");
+}
 function myfunction1(){
     var x=document.getElementById("a1");
     document.getElementById("a2").style.display="none";
