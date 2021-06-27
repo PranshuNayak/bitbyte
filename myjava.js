@@ -4,6 +4,15 @@ window.open("https://www.facebook.com/geeks.IIITJ/");
 function fun2(){
 window.open("https://github.com/BitByte-TPC/TPC-website");
 }
+function p1(){
+window.open("https://github.com/garg3133");
+}
+function p2(){
+window.open("https://gist.github.com/Taara-Sinh-Aatrey");
+}
+function p3(){
+window.open("https://github.com/MananJethwani");
+}
 function myfunction1(){
     var x=document.getElementById("a1");
     document.getElementById("a2").style.display="none";
